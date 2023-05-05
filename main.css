@@ -38,7 +38,7 @@ section .container {
 }
 
 .container > img {
-    height: 300px;
+    max-width: 35%;
 }
 
 section .container {
@@ -152,7 +152,7 @@ footer .container-flex {
     }
 
     .container > img {
-        height: 600px;
+        max-width: 100%;
     }
 
     button {
