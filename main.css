@@ -121,6 +121,10 @@ footer .container-flex {
         max-width: 90%;
     }
 
+    section img {
+        margin-right: 0px;
+    }
+
     section .container {
         display: block;
     }
